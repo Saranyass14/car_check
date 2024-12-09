@@ -1,0 +1,10 @@
+.report-text-id{
+    font-size: 11px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+@media (max-width: 765.5px){
+    .nav-head>.nav-container {
+        flex-direction: column !important;
+    }
+}

@@ -1,0 +1,9 @@
+div#root {
+  background: #dcf2eb;
+  box-sizing: border-box;
+}
+.Container_style{
+  background: #ffffff !important;
+  padding: 10px;
+  width:100vw !important;
+}
